@@ -38,7 +38,7 @@ Are you missing a semicolon at the end of line 7 of hello.c
 #include <cs50.h>
 #include <stdio.h>
 
-int main(void
+int main(void)
 {
 
     printf("Welcome to my notes\n");
@@ -85,4 +85,6 @@ hello.c:5:1: note: to match this '{'
 make: *** [<builtin>: hello] Error
 Make sure that all opening brace symbols { are matched with a closing brace }.
 ```
+
+
 
