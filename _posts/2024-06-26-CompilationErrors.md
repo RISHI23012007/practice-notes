@@ -67,7 +67,7 @@ In particular, check to see if you are missing a closing parenthesis on line 4 o
 #include <cs50.h>
 #include <stdio.h>
 
-int main(void
+int main(void)
 {
 
     printf("Welcome to my notes\n");
