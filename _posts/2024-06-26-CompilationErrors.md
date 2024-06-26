@@ -38,7 +38,7 @@ Are you missing a semicolon at the end of line 7 of hello.c
 #include <cs50.h>
 #include <stdio.h>
 
-int main(void)
+int main(void
 {
 
     printf("Welcome to my notes\n");
