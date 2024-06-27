@@ -69,3 +69,11 @@ Changes made:
 2. Added a `return 0;` statement at the end of the `main` function for good practice.
 3. Improved the final `printf` statement to be more readable by adding commas and proper spacing.
 4. Added `\n` at the end of the `printf` statement to ensure the output ends with a new line.
+### THE OUTPUT:
+make calc
+$ ./calc
+To add three numbers.
+Enter First number: 2
+Enter Second number: 3
+Enter Third number: 4
+The sum of 2 and 3 and 4 is 9
