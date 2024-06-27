@@ -1,6 +1,6 @@
 ---
-title: "Sum of three numbers"
-date: 2024-06-26
+title: "Sum of Numbers"
+date: 2024-06-27
 categories:
 ---
 
