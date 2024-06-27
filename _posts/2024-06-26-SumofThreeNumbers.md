@@ -151,8 +151,13 @@ Changes made:
 ## The Output:
 
 To add four numbers.
+
 Enter First number: 5
+
 Enter Second number: 7
+
 Enter Third number: 8
+
 Enter fourth number: 9
+
 The sum of 5 and 7 and 8 and 9 is 29
