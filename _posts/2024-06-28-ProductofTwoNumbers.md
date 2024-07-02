@@ -6,7 +6,7 @@ categories:
 
 # **Product Of Two Numbers**
 ## The related code is about product of two numbers:
-```C
+```c
 #include<cs50.h>
 #include<stdio.h>
 
