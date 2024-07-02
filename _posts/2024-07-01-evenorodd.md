@@ -8,7 +8,6 @@ categories:
 ## To check a number if it is even or odd:
 ### Below code is used 
 ```C
-
 #include<cs50.h>
 #include<stdio.h>
 
