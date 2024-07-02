@@ -6,7 +6,7 @@ categories:
 # **Pass Or Fail**
 ## The  code to check pass or fail using **conditional operators**
 ## They are *if,else,define*
-```C
+```c
 #include<cs50.h>
 #include<stdio.h>
 #include"tamil.h"
