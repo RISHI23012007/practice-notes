@@ -7,7 +7,7 @@ categories:
 # Even or odd
 ## To check a number if it is even or odd:
 ### Below code is used 
-```C
+```c
 #include<cs50.h>
 #include<stdio.h>
 
