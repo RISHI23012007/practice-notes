@@ -15,7 +15,8 @@ categories:
 
  iii)Expansion cards 
 
- ## Functional Units:
+## Functional Units:
+
 1.**CPU(Central Processing Unit)**:It controls the whole unit.The CPU is also known as  *'Brain of Computer'*.It has two parts :
 
 i)ALU-Algorithm and Logic Unit
